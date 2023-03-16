@@ -5,6 +5,12 @@
 * [![React][React.js]][React-url]
 * ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## Connect With Me:
+
+- Tasdid Hossain 
+
+[![LinkedIn][linkedin-shield]][linkedin-url-tasdid]
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
